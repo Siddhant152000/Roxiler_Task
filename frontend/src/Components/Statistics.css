@@ -4,8 +4,9 @@
    width:50%;
     margin: 0 auto; 
     text-align: center; 
-    background-color:yellow;
+    background-color:rgb(255, 255, 255);
     border-radius:30px;
+    border: 2px solid black;
   }
   
   .Stats h2 {
